@@ -1,0 +1,20 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoportogtr86/regex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoportogtr86/regex/issues"
+  },
+  "homepage": "https://github.com/leoportogtr86/regex#readme"
+}
