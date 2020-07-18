@@ -79,4 +79,4 @@ Que país é esse `
 
 const regex = /Que país é esse/g
 
-console.log(cifra.replace(regex, 'lá lá lá lá'))
+console.log(cifra.replace(regex, 'lá lá lá lá la'))
