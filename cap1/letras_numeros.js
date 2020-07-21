@@ -6,3 +6,12 @@ console.log(frase.match(/[a-zA-Z]/g))
 //busca por numeros
 
 console.log(frase.match(/[0-9]/g))
+
+
+//numeros
+console.log(frase.match(/\d/g))
+
+//numeros e letras
+console.log(frase.match(/\w/g))
+
+
